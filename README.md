@@ -1,6 +1,10 @@
 # AdvancedNodeStarter
 it is a boilerplate code for starting an Advanced Node Application
 
+### Frameworks :
+  - React for Front-end
+  - Node.js,MongoDB for BackEnd
+
 ## Installation:
 ```
   npm install
